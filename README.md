@@ -11,7 +11,7 @@ Môn Tính Toán Sinh Học 1 dành cho sinh viên năm nhất chuyên ngành C�
 ## [**Lecture 02. Vector Hai và Nhiều Chiều [Loi] - 03/10/2026**](Lecture_02/)
 - [PDF](Lecture_02/la_week1_annotated.pdf)
 
-## [**Lecture 03: Độ Dài, Góc, và tích vô hướng (Dot Product) trong Vector [Loi] - 05/10/2026 **](Lecture_03/)
+## [**Lecture 03: Độ Dài, Góc, và tích vô hướng (Dot Product) trong Vector [Loi] - 05/10/2026**](Lecture_03/)
 - [PDF](Lecture_03/la_week2_annotated.pdf)
 
 
