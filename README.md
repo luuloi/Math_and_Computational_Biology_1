@@ -5,7 +5,7 @@ Môn Tính Toán Sinh Học 1 dành cho sinh viên năm nhất chuyên ngành C�
 - Giảng viên: TS. Lưu Phúc Lợi
 - Trợ giảng: CN. Phạm Hiếu Đan, CN. Nguyễn Thái Bình, DS. Nguyễn Thị Minh Toàn và CN. Nguyễn Duy Thanh
 
-## [**Lecture 01. Giới thiệu môn học "Tính Toán Sinh Hoạc 1" [Loi] - 28/09/2026**](Lecture_01/)
+## [**Lecture 01. Giới thiệu môn học "Tính Toán Sinh Học 1" [Loi] - 28/09/2026**](Lecture_01/)
 - [PDF](Lecture_01/Lecture_01.pdf)
 
 ## [**Lecture 02. Vector Hai và Nhiều Chiều [Loi] - 03/10/2026**](Lecture_02/)
