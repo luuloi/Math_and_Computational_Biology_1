@@ -14,5 +14,7 @@ Môn Tính Toán Sinh Học 1 dành cho sinh viên năm nhất chuyên ngành C�
 ## [**Lecture 03: Độ Dài, Góc, và tích vô hướng (Dot Product) trong Vector [Loi] - 05/10/2026**](Lecture_03/)
 - [PDF](Lecture_03/la_week2_annotated.pdf)
 
+## [**Lecture 04: Ma trận và các phép toán trong ma trận [Loi] - 10/10/2026**](Lecture_04/)
+- [PDF](Lecture_04/la_week3_annotated.pdf)
 
 ## BOOK
