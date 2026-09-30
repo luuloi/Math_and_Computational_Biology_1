@@ -21,7 +21,7 @@ Môn Tính Toán Sinh Học 1 dành cho sinh viên năm nhất chuyên ngành C�
 - [PDF](Lecture_05/la_week4_annotated.pdf)
 
 ## [**Lecture 06. Hệ Phương Trình Tuyến Tính [Loi] - 12/10/2026**](Lecture_06/)
-- [PDF](Lecture_04/la_week5_annotated.pdf)
+- [PDF](Lecture_06/la_week5_annotated.pdf)
 
 ## [**Lecture 07. Ma Trận Sơ Cấp và Ma Trận Nghịch Đảo [Loi] - 12/10/2026**](Lecture_07/)
 - [PDF](Lecture_07/la_week6_annotated.pdf)
