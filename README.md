@@ -12,9 +12,9 @@ Môn Tính Toán Sinh Học 1 dành cho sinh viên năm nhất chuyên ngành C�
 - [PDF](Lecture_02/la_week1_annotated.pdf)
 - [Exercises](Book/EXERCISES/Linear_Algebra_exercises_1&2.pdf)
 
-## [**Python_01. Introduction to Python [Loi] - 07/10/2026](Python_01/)
+## [**Python_01. Introduction to Python [Loi] - 07/10/2026**](Python_01/)
 - [Lecture](https://libguides.tulane.edu/introtopython/home)
-- [Google Colab](https://colab.research.google.com/drive/10WKuwpuY2a0KSMIT7tl9bC1dCUB7szSN?usp=sharing)
+- [Lab](https://colab.research.google.com/drive/10WKuwpuY2a0KSMIT7tl9bC1dCUB7szSN?usp=sharing)
 - [Book](Book/)
   
 ## [**Lecture 03. Độ Dài, Góc, và Tích Vô Hướng (Dot Product) Trong Vector [Loi] - 05/10/2026**](Lecture_03/)
