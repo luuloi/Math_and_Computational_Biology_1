@@ -8,10 +8,15 @@ Môn Tính Toán Sinh Học 1 dành cho sinh viên năm nhất chuyên ngành C�
 ## [**Lecture 01. Giới Thiệu Môn Học "Tính Toán Sinh Học 1" [Loi] - 28/09/2026**](Lecture_01/)
 - [PDF](Lecture_01/Lecture_01.pdf)
 
-## [**Lecture 02. Vector Hai và Nhiều Chiều [Loi] - 03/10/2026**](Lecture_02/)
+## [**Lecture 02. Vector Hai và Nhiều Chiều [Loi] - 05/10/2026**](Lecture_02/)
 - [PDF](Lecture_02/la_week1_annotated.pdf)
 - [Exercises](Book/EXERCISES/Linear_Algebra_exercises_1&2.pdf)
 
+## [**Python_01. Introduction to Python [Loi] - 07/10/2026](Python_01/)
+- [Lecture](https://libguides.tulane.edu/introtopython/home)
+- [Google Colab](https://colab.research.google.com/drive/10WKuwpuY2a0KSMIT7tl9bC1dCUB7szSN?usp=sharing)
+- [Book](Book/)
+  
 ## [**Lecture 03. Độ Dài, Góc, và Tích Vô Hướng (Dot Product) Trong Vector [Loi] - 05/10/2026**](Lecture_03/)
 - [PDF](Lecture_03/la_week2_annotated.pdf)
 - [Exercises](Book/EXERCISES/Linear_Algebra_exercises_1&2.pdf)
