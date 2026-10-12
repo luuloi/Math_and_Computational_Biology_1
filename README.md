@@ -19,11 +19,11 @@ Môn Tính Toán Sinh Học 1 dành cho sinh viên năm nhất chuyên ngành C�
 - [Book: Part I](Book/Python_Basic.pdf)
 
 ## [**Python 02. Introduction to Python 2 [Phuc, Loi] - 10/10/2026**](Python_02/)
-- [Python CheetSheet 1](Python_02/)
-- [Python CheetSheet 2](Python_02/)
-- [Lab Practical](Python_02/)
+- [Python CheetSheet 1](Python_02/python-cheatsheet_1.pdf)
+- [Python CheetSheet 2](Python_02/beginners_python_cheatsheet.pdf)
+- [Lab Practical](Python_02/Python_Excercises.pdf)
 
-## [**Lecture 03. Độ Dài, Góc, và Tích Vô Hướng (Dot Product) Trong Vector [Loi] - 05/10/2026**](Lecture_03/)
+## [**Lecture 03. Độ Dài, Góc, và Tích Vô Hướng (Dot Product) Trong Vector [Loi] - 12/10/2026**](Lecture_03/)
 - [PDF](Lecture_03/la_week2_annotated.pdf)
 - [Exercises](Book/EXERCISES/Linear_Algebra_exercises_1&2.pdf)
 
