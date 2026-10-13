@@ -27,42 +27,59 @@ Môn Tính Toán Sinh Học 1 dành cho sinh viên năm nhất chuyên ngành C�
 - [PDF](Lecture_03/la_week2_annotated.pdf)
 - [Exercises](Book/EXERCISES/Linear_Algebra_exercises_1&2.pdf)
 
-## [**Lecture 04. Ma trận và Các Phép Toán Trong Ma Trận [Loi] - 10/10/2026**](Lecture_04/)
+## [**Lab and Tutorial for Lecture 02 & 03 -14/10/2026](Lecture_03/)
+
+## [**Lecture 04. Ma trận và Các Phép Toán Trong Ma Trận [Loi, Toan] - 17/10/2026**](Lecture_04/)
 - [PDF](Lecture_04/la_week3_annotated.pdf)
 - [Exercises](Book/EXERCISES/Linear_Algebra_exercises_1&2.pdf)
 
-## [**Lecture 05. Các Phép Biến Đổi Tuyến Tính [Loi] - 12/10/2026**](Lecture_05/)
+## [**Python 03. Vector in Python [Dan] - 17/10/2026**](Python_02/)
+- [Python CheetSheet 1](Python_02/python-cheatsheet_1.pdf)
+
+## [**Lecture 05. Các Phép Biến Đổi Tuyến Tính [Loi, Phuc] - 12/10/2026**](Lecture_05/)
 - [PDF](Lecture_05/la_week4_annotated.pdf)
 - [Exercises](Book/EXERCISES/Linear_Algebra_exercises_1&2.pdf)
 
-## [**Lecture 06. Hệ Phương Trình Tuyến Tính [Loi] - 12/10/2026**](Lecture_06/)
+## [**Lecture 06. Hệ Phương Trình Tuyến Tính [Toan, Loi] - 12/10/2026**](Lecture_06/)
 - [PDF](Lecture_06/la_week5_annotated.pdf)
 - [Exercises](Book/EXERCISES/Linear_Algebra_exercises_3&4.pdf)
 
-## [**Lecture 07. Ma Trận Sơ Cấp và Ma Trận Nghịch Đảo [Loi] - 12/10/2026**](Lecture_07/)
+## [**Python 04. Matrix in Python [Dan] - 24/10/2026**](Python_02/)
+- [Python CheetSheet 1](Python_02/python-cheatsheet_1.pdf)
+
+## [**Lecture 07. Ma Trận Sơ Cấp và Ma Trận Nghịch Đảo [Toan, Loi] - 12/10/2026**](Lecture_07/)
 - [PDF](Lecture_07/la_week6_annotated.pdf)
 - [Exercises](Book/EXERCISES/Linear_Algebra_exercises_3&4.pdf)
 
-## [**Lecture 08. Không Gian Con, Bao Tuyến Tính và Độc Lập Tuyến Tính [Loi] - 12/10/2026**](Lecture_08/)
+## [**Lecture 08. Không Gian Con, Bao Tuyến Tính và Độc Lập Tuyến Tính [Binh, Loi] - 12/10/2026**](Lecture_08/)
 - [PDF](Lecture_08/la_week7_annotated.pdf)
 - [Exercises](Book/EXERCISES/Linear_Algebra_exercises_3&4.pdf)
 
-## [**Lecture 09. Cơ Sở Của Không Gian Con và Hạng Của Ma Trận [Loi] - 12/10/2026**](Lecture_09/)
+## [**Python 05. Matrix in Python [Dan] - 24/10/2026**](Python_02/)
+- [Python CheetSheet 1](Python_02/python-cheatsheet_1.pdf)
+
+## [**Lecture 09. Cơ Sở Của Không Gian Con và Hạng Của Ma Trận [Binh, Loi] - 12/10/2026**](Lecture_09/)
 - [PDF](Lecture_09/la_week8_annotated.pdf)
 - [Exercises](Book/EXERCISES/Linear_Algebra_exercises_5&6&7.pdf)
 
-## [**Lecture 10. Định Thức [Loi] - 12/10/2026**](Lecture_10/)
+## [**Lecture 10. Định Thức [Hoang, Loi] - 12/10/2026**](Lecture_10/)
 - [PDF](Lecture_10/la_week9_annotated.pdf)
 - [Exercises](Book/EXERCISES/Linear_Algebra_exercises_5&6&7.pdf)
 
-## [**Lecture 11. Eigenvalues và Eigenvectors [Loi] - 12/10/2026**](Lecture_11/)
+## [**Python 06. Matrix in Python [Dan] - 24/10/2026**](Python_02/)
+- [Python CheetSheet 1](Python_02/python-cheatsheet_1.pdf)
+
+## [**Lecture 11. Eigenvalues và Eigenvectors [Hoang, Loi] - 12/10/2026**](Lecture_11/)
 - [PDF](Lecture_11/la_week10_annotated.pdf)
 - [Exercises](Book/EXERCISES/Linear_Algebra_exercises_5&6&7.pdf)
 
-## [**Lecture 12. Đường Chéo Của Ma Trận [Loi] - 12/10/2026**](Lecture_12/)
+## [**Lecture 12. Đường Chéo Của Ma Trận [Hoang, Loi] - 12/10/2026**](Lecture_12/)
 - [PDF](Lecture_12/la_week11_annotated.pdf)
 - [Exercises](Book/EXERCISES/Linear_Algebra_exercises_5&6&7.pdf)
 
-## BOOK
+## [**Python 07. Matrix in Python [Dan] - 24/10/2026**](Python_02/)
+- [Python CheetSheet 1](Python_02/python-cheatsheet_1.pdf)
+  
+
 - [Lecture](Book/Intro_Linear_Alg.pdf)
 - [Exercises](Book/EXERCISES/)
