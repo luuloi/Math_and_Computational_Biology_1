@@ -27,7 +27,7 @@ Môn Tính Toán Sinh Học 1 dành cho sinh viên năm nhất chuyên ngành C�
 - [PDF](Lecture_03/la_week2_annotated.pdf)
 - [Exercises](Book/EXERCISES/Linear_Algebra_exercises_1&2.pdf)
 
-## [**Lab and Tutorial 01. For Lecture 02 & 03 - 14/10/2026**](Lecture_03/)
+## [**Lab and Tutorial 01. For Lecture 02 & 03 [Loi] - 14/10/2026**](Lecture_03/)
 
 ## [**Lecture 04. Ma trận và Các Phép Toán Trong Ma Trận [Loi, Toan] - 17/10/2026**](Lecture_04/)
 - [PDF](Lecture_04/la_week3_annotated.pdf)
@@ -36,11 +36,11 @@ Môn Tính Toán Sinh Học 1 dành cho sinh viên năm nhất chuyên ngành C�
 ## [**Python 03. Vector in Python [Dan] - 17/10/2026**](Python_02/)
 - [Python CheetSheet 1](Python_02/python-cheatsheet_1.pdf)
 
-## [**Lecture 05. Các Phép Biến Đổi Tuyến Tính [Loi, Phuc] - 12/10/2026**](Lecture_05/)
+## [**Lecture 05. Các Phép Biến Đổi Tuyến Tính [Loi] - 19/10/2026**](Lecture_05/)
 - [PDF](Lecture_05/la_week4_annotated.pdf)
 - [Exercises](Book/EXERCISES/Linear_Algebra_exercises_1&2.pdf)
 
-## [**Lecture 06. Hệ Phương Trình Tuyến Tính [Toan, Loi] - 12/10/2026**](Lecture_06/)
+## [**Lecture 06. Hệ Phương Trình Tuyến Tính [Toan, Loi] - 21/10/2026**](Lecture_06/)
 - [PDF](Lecture_06/la_week5_annotated.pdf)
 - [Exercises](Book/EXERCISES/Linear_Algebra_exercises_3&4.pdf)
 
