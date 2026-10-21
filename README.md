@@ -5,6 +5,10 @@ Môn Tính Toán Sinh Học 1 dành cho sinh viên năm nhất chuyên ngành C�
 - Giảng viên: TS. Lưu Phúc Lợi
 - Trợ giảng: CN. Phạm Hiếu Đan, CN. Nguyễn Thái Bình, DS. Nguyễn Thị Minh Toàn và CN. Nguyễn Duy Thanh
 
+##
+[Danh sách CNSHS K26A: Điểm Danh và Nộp Bài Tập](https://docs.google.com/spreadsheets/d/1rT_PVyIpJuRaNt0FgUBghxQ1rL0c-xKoHvPgFn5I224/edit?usp=sharing)
+##
+
 ## [**Lecture 01. Giới Thiệu Môn Học "Tính Toán Sinh Học 1" [Loi] - 28/09/2026**](Lecture_01/)
 - [PDF](Lecture_01/Lecture_01.pdf)
 
