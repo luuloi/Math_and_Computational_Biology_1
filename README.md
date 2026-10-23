@@ -31,61 +31,67 @@ Môn Tính Toán Sinh Học 1 dành cho sinh viên năm nhất chuyên ngành C�
 - [PDF](Lecture_03/la_week2_annotated.pdf)
 - [Exercises](Book/EXERCISES/Linear_Algebra_exercises_1&2.pdf)
 
-## [**Tutorial 01. For Lecture 02 & 03 [Loi] - 14/10/2026**](Lecture_03/)
+## [**Tutorial 01. For Lecture 02 & 03 [Loi] - 14/10/2026**](Tutorial_01/)
 
 ## [**Lecture 04. Ma trận và Các Phép Toán Trong Ma Trận [Loi, Toan] - 17/10/2026**](Lecture_04/)
 - [PDF](Lecture_04/la_week3_annotated.pdf)
 - [Exercises](Book/EXERCISES/Linear_Algebra_exercises_1&2.pdf)
 
-## [**Python 03. Vector in Python [Dan] - 17/10/2026**](Python_02/)
+## [**Python 03. Vector in Python [Dan] - 17/10/2026**](Python_03/)
 - Dan???
 
 ## [**Lecture 05. Các Phép Biến Đổi Tuyến Tính [Loi] - 19/10/2026**](Lecture_05/)
 - [PDF](Lecture_05/la_week4_annotated.pdf)
 - [Exercises](Book/EXERCISES/Linear_Algebra_exercises_1&2.pdf)
 
-## [**Tutorial 02. For Lecture 04 & 05 [Loi] - 21/10/2026**](Lecture_03/)
+## [**Tutorial 02. For Lecture 04 & 05 [Loi] - 21/10/2026**](Tutorial_02/)
 
-## [**Lecture 06. Hệ Phương Trình Tuyến Tính [Toan, Loi] - 24/10/2026**](Lecture_06/)
+## [**Lecture 06. Hệ Phương Trình Tuyến Tính [Loi] - 24/10/2026**](Lecture_06/)
 - [PDF](Lecture_06/la_week5_annotated.pdf)
 - [Exercises](Book/EXERCISES/Linear_Algebra_exercises_3&4.pdf)
 
-## [**Python 04. Matrix in Python [Dan] - 24/10/2026**](Python_02/)
+## [**Python 04. Matrix in Python [Dan] - 24/10/2026**](Python_04/)
 - Dan???
 
-## [**Lecture 07. Ma Trận Sơ Cấp và Ma Trận Nghịch Đảo [Toan, Loi] - 12/10/2026**](Lecture_07/)
+## [**Lecture 07. Ma Trận Sơ Cấp và Ma Trận Nghịch Đảo [Toan, Loi] - 26/10/2026**](Lecture_07/)
 - [PDF](Lecture_07/la_week6_annotated.pdf)
 - [Exercises](Book/EXERCISES/Linear_Algebra_exercises_3&4.pdf)
 
-## [**Lecture 08. Không Gian Con, Bao Tuyến Tính và Độc Lập Tuyến Tính [Binh, Loi] - 12/10/2026**](Lecture_08/)
+## [**Tutorial 03. For Lecture 06 & 07 [Loi] - 28/10/2026**](Tutorial_03/)
+
+## [**Lecture 08. Không Gian Con, Bao Tuyến Tính và Độc Lập Tuyến Tính [Binh, Loi] - 31/10/2026**](Lecture_08/)
 - [PDF](Lecture_08/la_week7_annotated.pdf)
 - [Exercises](Book/EXERCISES/Linear_Algebra_exercises_3&4.pdf)
 
-## [**Python 05. Matrix in Python [Dan] - 24/10/2026**](Python_02/)
-- [Python CheetSheet 1](Python_02/python-cheatsheet_1.pdf)
+## [**Python 05. Matrix in Python [Dan] - 31/10/2026**](Python_05/)
+- Dan???
 
-## [**Lecture 09. Cơ Sở Của Không Gian Con và Hạng Của Ma Trận [Binh, Loi] - 12/10/2026**](Lecture_09/)
+## [**Lecture 09. Cơ Sở Của Không Gian Con và Hạng Của Ma Trận [Binh, Loi] - 02/11/2026**](Lecture_09/)
 - [PDF](Lecture_09/la_week8_annotated.pdf)
 - [Exercises](Book/EXERCISES/Linear_Algebra_exercises_5&6&7.pdf)
 
-## [**Lecture 10. Định Thức [Hoang, Loi] - 12/10/2026**](Lecture_10/)
+## [**Tutorial 04. For Lecture 08 & 09 [Loi] - 04/11/2026**](Tutorial_04/)
+
+## [**Lecture 10. Định Thức [Dan, Loi] - 07/11/2026**](Lecture_10/)
 - [PDF](Lecture_10/la_week9_annotated.pdf)
 - [Exercises](Book/EXERCISES/Linear_Algebra_exercises_5&6&7.pdf)
 
-## [**Python 06. Matrix in Python [Dan] - 24/10/2026**](Python_02/)
-- [Python CheetSheet 1](Python_02/python-cheatsheet_1.pdf)
+## [**Python 06. Review Python for Linear Algebra [Dan] - 07/11/2026**](Python_06/)
+- Dan???
 
-## [**Lecture 11. Eigenvalues và Eigenvectors [Hoang, Loi] - 12/10/2026**](Lecture_11/)
+## [**Lecture 11. Eigenvalues và Eigenvectors [Dan, Loi] - 09/11/2026**](Lecture_11/)
 - [PDF](Lecture_11/la_week10_annotated.pdf)
 - [Exercises](Book/EXERCISES/Linear_Algebra_exercises_5&6&7.pdf)
 
-## [**Lecture 12. Đường Chéo Của Ma Trận [Hoang, Loi] - 12/10/2026**](Lecture_12/)
+## [**Lecture 12. Đường Chéo Của Ma Trận [Dan, Loi] - 12/11/2026**](Lecture_12/)
 - [PDF](Lecture_12/la_week11_annotated.pdf)
 - [Exercises](Book/EXERCISES/Linear_Algebra_exercises_5&6&7.pdf)
 
-## [**Python 07. Matrix in Python [Dan] - 24/10/2026**](Python_02/)
-- [Python CheetSheet 1](Python_02/python-cheatsheet_1.pdf)
-  
+## [**Tutorial 05. For Lecture 10 & 11 & 12 [Hoang, Loi] - 14/11/2026**](Tutorial_05/)
 
-- [Lecture](Book/Intro_Linear_Alg.pdf)
+## [**Review Lecture [Loi] - 14/11/2026](Lecture_12/)
+##
+- [Lecture](Book/Intro_Linear_Algebra.pdf)
+- [More Advanced Reference](Book/Linear_Algebra.pd)
 - [Exercises](Book/EXERCISES/)
+- [Python for Linear Algebra](Book/)
