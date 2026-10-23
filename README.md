@@ -57,7 +57,7 @@ Môn Tính Toán Sinh Học 1 dành cho sinh viên năm nhất chuyên ngành C�
 - [PDF](Lecture_07/la_week6_annotated.pdf)
 - [Exercises](Book/EXERCISES/Linear_Algebra_exercises_3&4.pdf)
 
-## [**Tutorial 03. For Lecture 06 & 07 [Loi] - 28/10/2026**](Tutorial_03/)
+## [**Tutorial 03. For Lecture 06 & 07 [Toan, Loi] - 28/10/2026**](Tutorial_03/)
 
 ## [**Lecture 08. Không Gian Con, Bao Tuyến Tính và Độc Lập Tuyến Tính [Binh, Loi] - 31/10/2026**](Lecture_08/)
 - [PDF](Lecture_08/la_week7_annotated.pdf)
@@ -70,7 +70,7 @@ Môn Tính Toán Sinh Học 1 dành cho sinh viên năm nhất chuyên ngành C�
 - [PDF](Lecture_09/la_week8_annotated.pdf)
 - [Exercises](Book/EXERCISES/Linear_Algebra_exercises_5&6&7.pdf)
 
-## [**Tutorial 04. For Lecture 08 & 09 [Loi] - 04/11/2026**](Tutorial_04/)
+## [**Tutorial 04. For Lecture 08 & 09 [Binh, Loi] - 04/11/2026**](Tutorial_04/)
 
 ## [**Lecture 10. Định Thức [Dan, Loi] - 07/11/2026**](Lecture_10/)
 - [PDF](Lecture_10/la_week9_annotated.pdf)
