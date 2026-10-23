@@ -33,7 +33,7 @@ Môn Tính Toán Sinh Học 1 dành cho sinh viên năm nhất chuyên ngành C�
 
 ## [**Tutorial 01. For Lecture 02 & 03 [Loi] - 14/10/2026**](Tutorial_01/)
 
-## [**Lecture 04. Ma trận và Các Phép Toán Trong Ma Trận [Loi, Toan] - 17/10/2026**](Lecture_04/)
+## [**Lecture 04. Ma trận và Các Phép Toán Trong Ma Trận [Toan, Loi] - 17/10/2026**](Lecture_04/)
 - [PDF](Lecture_04/la_week3_annotated.pdf)
 - [Exercises](Book/EXERCISES/Linear_Algebra_exercises_1&2.pdf)
 
