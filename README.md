@@ -38,7 +38,8 @@ Môn Tính Toán Sinh Học 1 dành cho sinh viên năm nhất chuyên ngành C�
 - [Exercises](Book/EXERCISES/Linear_Algebra_exercises_1&2.pdf)
 
 ## [**Python 03. Vector in Python [Dan] - 17/10/2026**](Python_03/)
-- Dan???
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SuMOSOa8Dx2HXg9KPjJjO0Rbl0wzJDTl?usp=sharing)
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1L9VlNxA9JUvo5uUWsT0Cac3mMPzpdFT6?usp=drive_link)
 
 ## [**Lecture 05. Các Phép Biến Đổi Tuyến Tính [Loi] - 19/10/2026**](Lecture_05/)
 - [PDF](Lecture_05/la_week4_annotated.pdf)
@@ -51,7 +52,7 @@ Môn Tính Toán Sinh Học 1 dành cho sinh viên năm nhất chuyên ngành C�
 - [Exercises](Book/EXERCISES/Linear_Algebra_exercises_3&4.pdf)
 
 ## [**Python 04. Matrix in Python [Dan] - 24/10/2026**](Python_04/)
-- Dan???
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1yF39q26YGJpy9MhisRFyMtIYCEM4wn3P?usp=drive_link)
 
 ## [**Lecture 07. Ma Trận Sơ Cấp và Ma Trận Nghịch Đảo [Toan, Loi] - 26/10/2026**](Lecture_07/)
 - [PDF](Lecture_07/la_week6_annotated.pdf)
@@ -64,7 +65,7 @@ Môn Tính Toán Sinh Học 1 dành cho sinh viên năm nhất chuyên ngành C�
 - [Exercises](Book/EXERCISES/Linear_Algebra_exercises_3&4.pdf)
 
 ## [**Python 05. Matrix in Python [Dan] - 31/10/2026**](Python_05/)
-- Dan???
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ddsOLTzxujmKWAoJtiP6DNDfXiP7qyCD?usp=drive_link)
 
 ## [**Lecture 09. Cơ Sở Của Không Gian Con và Hạng Của Ma Trận [Binh, Loi] - 02/11/2026**](Lecture_09/)
 - [PDF](Lecture_09/la_week8_annotated.pdf)
