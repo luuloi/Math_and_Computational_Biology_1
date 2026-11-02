@@ -73,11 +73,11 @@ Môn Tính Toán Sinh Học 1 dành cho sinh viên năm nhất chuyên ngành C�
 
 ## [**Tutorial 04. For Lecture 08 & 09 [Binh, Loi] - 04/11/2026**](Tutorial_04/)
 
-## [**Lecture 10. Định Thức [Dan, Loi] - 07/11/2026**](Lecture_10/)
+## [**Lecture 10. Định Thức [Dan, Loi] - 08/11/2026**](Lecture_10/)
 - [PDF](Lecture_10/la_week9_annotated.pdf)
 - [Exercises](Book/EXERCISES/Linear_Algebra_exercises_5&6&7.pdf)
 
-## [**Python 06. Review Python for Linear Algebra [Dan] - 07/11/2026**](Python_06/)
+## [**Python 06. Review Python for Linear Algebra [Dan] - 08/11/2026**](Python_06/)
 - Dan???
 
 ## [**Lecture 11. Eigenvalues và Eigenvectors [Dan, Loi] - 09/11/2026**](Lecture_11/)
