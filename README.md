@@ -90,7 +90,10 @@ Môn Tính Toán Sinh Học 1 dành cho sinh viên năm nhất chuyên ngành C�
 
 ## [**Tutorial 05. For Lecture 10 & 11 & 12 [Hoang, Loi] - 14/11/2026**](Tutorial_05/)
 
-## [*****Review Lecture [Loi] - 14/11/2026**](Lecture_12/)
+## [**Python 07. Review Python for Linear Algebra [Dan] - 14/11/2026**](Python_06/)
+- Dan???
+
+## [*****Review Lecture [Loi] - 16/11/2026**](Lecture_12/)
 ##
 - [Lecture](Book/Intro_Linear_Algebra.pdf)
 - [More Advanced Reference](Book/Linear_Algebra.pd)
