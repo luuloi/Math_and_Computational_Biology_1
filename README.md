@@ -94,7 +94,7 @@ Môn Tính Toán Sinh Học 1 dành cho sinh viên năm nhất chuyên ngành C�
 - Dan???
 
 ## [*****Review Linear Algebra and Python 1 [Dan, Hoang, Loi] - 16/11/2026**](Lecture_12/)
-## [*****Review Linear Algebra and Python 2 [Dan, Hoang, Loi] - 18/11/2026**](Lecture_12/)
+## [*****Review Linear Algebra and Python 2 [Binh, Toan, Loi] - 18/11/2026**](Lecture_12/)
 ##
 - [Lecture](Book/Intro_Linear_Algebra.pdf)
 - [More Advanced Reference](Book/Linear_Algebra.pd)
