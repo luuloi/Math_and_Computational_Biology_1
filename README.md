@@ -79,10 +79,10 @@ Môn Tính Toán Sinh Học 1 dành cho sinh viên năm nhất chuyên ngành C�
 
 ## [**Python 06. Review Python for Linear Algebra [Dan] - 08/11/2026**](Python_06/)
 - Code & cheatsheet
-[Cheatsheet](Python_06/CHEATSHEET.md)
-[![Open In Colab](https://drive.google.com/file/d/1t54sBaRSinmyt8tUneAupHu1dbbrGDnB/view?usp=sharing)
+- [Cheatsheet](Python_06/CHEATSHEET.md)
+- [![Open In Colab](https://drive.google.com/file/d/1t54sBaRSinmyt8tUneAupHu1dbbrGDnB/view?usp=sharing)
 - Bài tập mẫu và lời giải
-[![Open In Colab](https://drive.google.com/file/d/1ieYSuCGtR0s7kdSo4ZF3gk0W-P5KZkxa/view?usp=sharing)
+- [![Open In Colab](https://drive.google.com/file/d/1ieYSuCGtR0s7kdSo4ZF3gk0W-P5KZkxa/view?usp=sharing)
 
 ## [**Lecture 11. Eigenvalues và Eigenvectors [Loi] - 09/11/2026**](Lecture_11/)
 - [PDF](Lecture_11/la_week10_annotated.pdf)
