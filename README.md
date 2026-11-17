@@ -37,7 +37,7 @@ Môn Tính Toán Sinh Học 1 dành cho sinh viên năm nhất chuyên ngành C�
 - [PDF](Lecture_04/la_week3_annotated.pdf)
 - [Exercises](Book/EXERCISES/Linear_Algebra_exercises_1&2.pdf)
 
-## [**Python 03. Vector in Python [Dan] - 17/10/2026**](Python_03/)
+## [**Python 03. Python Data Types and Math Caliculation [Dan] - 17/10/2026**](Python_03/)
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SuMOSOa8Dx2HXg9KPjJjO0Rbl0wzJDTl?usp=sharing)
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1L9VlNxA9JUvo5uUWsT0Cac3mMPzpdFT6?usp=drive_link)
 
