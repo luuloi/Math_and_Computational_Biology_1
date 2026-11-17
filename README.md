@@ -77,12 +77,9 @@ Môn Tính Toán Sinh Học 1 dành cho sinh viên năm nhất chuyên ngành C�
 - [PDF](Lecture_10/la_week9_annotated.pdf)
 - [Exercises](Book/EXERCISES/Linear_Algebra_exercises_5&6&7.pdf)
 
-## [**Python 06. Review Python for Linear Algebra [Dan] - 08/11/2026**](Python_06/)
-- Code & cheatsheet
+## [**Python 06. Python for Linear Algebra [Dan] - 08/11/2026**](Python_06/)
 - [Cheatsheet](Python_06/CHEATSHEET.md)
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1t54sBaRSinmyt8tUneAupHu1dbbrGDnB/view?usp=sharing)
-- Bài tập mẫu và lời giải
-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1ieYSuCGtR0s7kdSo4ZF3gk0W-P5KZkxa/view?usp=sharing)
 
 ## [**Lecture 11. Eigenvalues và Eigenvectors [Loi] - 09/11/2026**](Lecture_11/)
 - [PDF](Lecture_11/la_week10_annotated.pdf)
@@ -94,8 +91,8 @@ Môn Tính Toán Sinh Học 1 dành cho sinh viên năm nhất chuyên ngành C�
 
 ## [**Tutorial 05. For Lecture 10 & 11 & 12 [Hoang, Loi] - 14/11/2026**](Tutorial_05/)
 
-## [**Python 07. Python for Linear Algebra [Dan] - 14/11/2026**](Python_06/)
-- Dan???
+## [**Python 07. Review Python for Linear Algebra [Dan] - 14/11/2026**](Python_06/)
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1ieYSuCGtR0s7kdSo4ZF3gk0W-P5KZkxa/view?usp=sharing)
 
 ## [*****Review Linear Algebra and Python 1 [Dan, Hoang, Loi] - 16/11/2026**](Lecture_12/)
 ## [*****Review Linear Algebra and Python 2 [Binh, Toan, Loi] - 18/11/2026**](Lecture_12/)
