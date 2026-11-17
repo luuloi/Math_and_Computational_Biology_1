@@ -51,7 +51,7 @@ Môn Tính Toán Sinh Học 1 dành cho sinh viên năm nhất chuyên ngành C�
 - [PDF](Lecture_06/la_week5_annotated.pdf)
 - [Exercises](Book/EXERCISES/Linear_Algebra_exercises_3&4.pdf)
 
-## [**Python 04. Matrix in Python [Dan] - 24/10/2026**](Python_04/)
+## [**Python 04. Input and Data Type Conversion [Dan] - 24/10/2026**](Python_04/)
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1yF39q26YGJpy9MhisRFyMtIYCEM4wn3P?usp=drive_link)
 
 ## [**Lecture 07. Ma Trận Sơ Cấp và Ma Trận Nghịch Đảo [Toan, Loi] - 26/10/2026**](Lecture_07/)
