@@ -98,7 +98,7 @@ Môn Tính Toán Sinh Học 1 dành cho sinh viên năm nhất chuyên ngành C�
 - [Exercises and sol for Chapter 5, 6, 7, 8](Review/Exercise_5_6_7_8.docx)
 
 ## [*****Review Linear Algebra and Python 2 [Hoang, Toan, Loi] - 21/11/2026**](Review/)
-- [Exercises and sol for Chapter 1, 2, 3, 4](Review/)
+- [Exercises and sol for Chapter 1, 2, 3, 4](Review/Exercise_1_2_3_4.docx)
 - [Exercises ans sol for Chapter 9, 10, 11](Review/Exercise_9_10_11.docx)
 - 3 Tests:
   + [Test 1]()
