@@ -101,10 +101,11 @@ Môn Tính Toán Sinh Học 1 dành cho sinh viên năm nhất chuyên ngành C�
 - [Exercises and sol for Chapter 1, 2, 3, 4](Review/Exercise_1_2_3_4.docx)
 - [Exercises ans sol for Chapter 9, 10, 11](Review/Exercise_9_10_11.docx)
 - 3 Tests:
-  + [Test 1]()
-  + [Test 2]()
-  + [Test 3]()
-
+  + [Test 1](Review/De_01_Kiem_Tra_Cuoi_Ky_DSTT.md)
+  + [Test 2](Review/De_02_Kiem_Tra_Cuoi_Ky_DSTT.md)
+  + [Test 3](Review/De_03_Kiem_Tra_Cuoi_Ky_DSTT.md)
+- MD file viewer = https://mdview.io/
+  
 ##
 - [Lecture](Book/Intro_Linear_Algebra.pdf)
 - [More Advanced Reference](Book/Linear_Algebra.pd)
